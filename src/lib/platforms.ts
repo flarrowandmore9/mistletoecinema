@@ -15,6 +15,13 @@ export const PLATFORMS: PlatformInfo[] = [
   { id: 'movistar-plus', name: 'Movistar Plus+', dotClass: 'bg-cyan-600' },
   { id: 'filmin', name: 'Filmin', dotClass: 'bg-gold-500' },
   { id: 'skyshowtime', name: 'SkyShowtime', dotClass: 'bg-teal-600' },
+  { id: 'hallmark-channel', name: 'Hallmark Channel', dotClass: 'bg-rose-700' },
+  { id: 'hallmark-plus', name: 'Hallmark+', dotClass: 'bg-rose-400' },
+  { id: 'great-american-family', name: 'Great American Family', dotClass: 'bg-emerald-700' },
+  { id: 'lifetime', name: 'Lifetime', dotClass: 'bg-pink-600' },
+  { id: 'freeform', name: 'Freeform', dotClass: 'bg-orange-500' },
+  { id: 'peacock', name: 'Peacock', dotClass: 'bg-yellow-400' },
+  { id: 'paramount-plus', name: 'Paramount+', dotClass: 'bg-blue-500' },
   { id: 'other', name: 'Otra plataforma', dotClass: 'bg-stone-400' },
 ];
 
