@@ -1,0 +1,13 @@
+{
+  "projectId": "72709781",
+  "functions": {
+    "delete-account": {
+      "hasChanged": false,
+      "hash": "4bef4f8a372a367e6ccb88c81259b9672c469d727f36aab2755c0c6c36e10128"
+    },
+    "sync-tmdb": {
+      "hasChanged": false,
+      "hash": "bbbd94ee41105cc3ec1e6d07460e75e11711a77c19cb40aac0ecc03cfe6f6968"
+    }
+  }
+}
